@@ -787,11 +787,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6797416824383407952, guid: 4191641c5dbc82f4ca5c577937c8f1ff,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90eee47f3df5e0d44b77205d73abd4af, type: 2}
+    - target: {fileID: -6440401916111486837, guid: 4191641c5dbc82f4ca5c577937c8f1ff,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90eee47f3df5e0d44b77205d73abd4af, type: 2}
     - target: {fileID: 919132149155446097, guid: 4191641c5dbc82f4ca5c577937c8f1ff,
         type: 3}
       propertyPath: m_Name
       value: Academic Block
       objectReference: {fileID: 0}
+    - target: {fileID: 1392180757443930558, guid: 4191641c5dbc82f4ca5c577937c8f1ff,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90eee47f3df5e0d44b77205d73abd4af, type: 2}
+    - target: {fileID: 2783405914375746774, guid: 4191641c5dbc82f4ca5c577937c8f1ff,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90eee47f3df5e0d44b77205d73abd4af, type: 2}
+    - target: {fileID: 9103793952625114170, guid: 4191641c5dbc82f4ca5c577937c8f1ff,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90eee47f3df5e0d44b77205d73abd4af, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4191641c5dbc82f4ca5c577937c8f1ff, type: 3}
 --- !u!1 &1684951658 stripped
